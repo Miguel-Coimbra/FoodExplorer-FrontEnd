@@ -98,3 +98,8 @@ $ npm run dev
 
 # O servidor inciará na porta:3333 - acesse <   http://127.0.0.1:5173/ >
 ```
+
+### App como Admin
+- Nome: admin
+- Login: admin@email.com
+- Senha: 123456
